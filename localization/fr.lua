@@ -4323,7 +4323,7 @@ return {
 				name = "Joker Pendule",
 				text = {
 					"Peut être utilisé comme consommable",
-					"Les Jokers {C:inactive}({C:joy_spell}Speciaux{} {C:inactive}doivent être",
+					"{C:inactive}(Les Jokers{C:joy_spell}Speciaux{} {C:inactive}doivent être",
 					"{C:inactive}invoqués proprement d'abord)"
 				},
 			},
@@ -4345,7 +4345,7 @@ return {
 				name = "Matériel",
 				text = {
 					"Cartes utilisées pour l'invocation d'un",
-					"{C:inactive}({}{C:joy_xyz}Joker Extra Deck{}",
+					"{C:inactive}{}{C:joy_xyz}Joker Extra Deck{}",
 				},
 			},
 			joy_tooltip_detach = {
@@ -4585,13 +4585,13 @@ return {
 			k_joy_DivineBeast = "Bête Divine",
 			k_joy_Dragon = "Dragon",
 			k_joy_Fairy = "Fée",
-			k_joy_Démon = "Démon",
+			k_joy_Fiend = "Démon",
 			k_joy_Fish = "Poisson",
 			k_joy_Illusion = "Illusion",
 			k_joy_Insect = "Insecte",
 			k_joy_Machine = "Machine",
 			k_joy_Plant = "Plante",
-			k_joy_Psychique = "Psychique",
+			k_joy_Psychic = "Psychique",
 			k_joy_Pyro = "Pyro",
 			k_joy_Reptile = "Reptile",
 			k_joy_Rock = "Rocher",
@@ -4652,7 +4652,7 @@ return {
 			--#region Specific
 			k_joy_arrival_text1 = ": Baisse ",
 			k_joy_arrival_text2 = "les objectifs",
-			k_joy_arrival_text3 = "de la Misee de ",
+			k_joy_arrival_text3 = "de la Mise de ",
 			k_joy_arrival_text4 = "50%",
 			--#endregion
 		}
